@@ -1,0 +1,43 @@
+{"distance": 
+  { 
+    "unit": "inc", 
+    "value": 100, 
+    "convert_to": "m" 
+  },
+  "distance2": 
+  { 
+    "unit": "cm", 
+    "value": 100, 
+    "convert_to": "yd"
+  },
+  "distance3": 
+  { 
+    "unit": "km", 
+    "value": 10, 
+    "convert_to": "ft"
+  },
+  "distance4": 
+  { 
+    "unit": "m", 
+    "value": 1000, 
+    "convert_to": "ft" 
+  },
+  "distance5": 
+  { 
+    "unit": "cm", 
+    "value": 1000, 
+    "convert_to": "mi"
+  },
+  "distance6": 
+  { 
+    "unit": "yd", 
+    "value": 10, 
+    "convert_to": "m"
+  },
+  "distance7": 
+  { 
+    "unit": "mi", 
+    "value": 100, 
+    "convert_to": "km"
+  }
+}
