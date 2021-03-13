@@ -1,0 +1,19 @@
+{"distance": 
+  { 
+    "unit": "mi", 
+    "value": 1, 
+    "convert_to": "cm" 
+  },
+  "distance2": 
+  { 
+    "unit": "yd", 
+    "value": 100, 
+    "convert_to": "m"
+  },
+  "distance3": 
+  { 
+    "unit": "ft", 
+    "value": 250, 
+    "convert_to": "km"
+  }
+}
