@@ -1,13 +1,13 @@
 {"distance": 
   { 
     "unit": "inc", 
-    "value": 100, 
+    "value": 300, 
     "convert_to": "m" 
   },
   "distance2": 
   { 
     "unit": "cm", 
-    "value": 100, 
+    "value": 50, 
     "convert_to": "yd"
   },
   "distance3": 
@@ -19,7 +19,7 @@
   "distance4": 
   { 
     "unit": "m", 
-    "value": 1000, 
+    "value": 2020, 
     "convert_to": "ft" 
   },
   "distance5": 
@@ -33,11 +33,5 @@
     "unit": "yd", 
     "value": 10, 
     "convert_to": "m"
-  },
-  "distance7": 
-  { 
-    "unit": "mi", 
-    "value": 100, 
-    "convert_to": "km"
   }
 }
